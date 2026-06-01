@@ -1,0 +1,249 @@
+[
+  {
+    "year": 0,
+    "era": "Founders Era",
+    "title": "The First Meeting",
+    "description": "Aditya, Deepak, Abhishek and Raghavendra begin discussing the idea that would become Mitra Mandal.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 1,
+    "era": "Founders Era",
+    "title": "Birth of Mitra Mandal",
+    "description": "The community group is officially established beneath the banyan tree.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 3,
+    "era": "Founders Era",
+    "title": "First Public Initiative",
+    "description": "Mitra Mandal launches its first social service projects.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 5,
+    "era": "Founders Era",
+    "title": "Regional Recognition",
+    "description": "The movement expands beyond its village and gains district-level recognition.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 8,
+    "era": "Founders Era",
+    "title": "Rise of Nandini",
+    "description": "Nandini emerges as one of the most influential voices in the organization.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 12,
+    "era": "Political Entry",
+    "title": "Entering Politics",
+    "description": "Mitra Mandal officially enters electoral politics.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 18,
+    "era": "Political Entry",
+    "title": "First Electoral Victory",
+    "description": "The movement wins its first major election.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 25,
+    "era": "Golden Age",
+    "title": "National Expansion",
+    "description": "Mitra Mandal becomes a nationwide force.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 32,
+    "era": "Golden Age",
+    "title": "Mahendra Rathod Conflict",
+    "description": "The greatest political rivalry in movement history reaches its peak.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 40,
+    "era": "Golden Age",
+    "title": "The Golden Age",
+    "description": "Membership reaches millions and Mitra Mandal enters its most successful era.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 50,
+    "era": "Golden Age",
+    "title": "Rise of Aarohi and Arjun",
+    "description": "The next generation begins taking leadership roles.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 61,
+    "era": "Age of Inheritance",
+    "title": "Death of Aditya",
+    "description": "The Founder dies, marking the end of the first chapter of Mitra Mandal history.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 63,
+    "era": "Age of Inheritance",
+    "title": "The Empty Chair Preserved",
+    "description": "The Empty Chair becomes an official symbol of the movement.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 71,
+    "era": "Age of Inheritance",
+    "title": "The Forgotten Founder Revealed",
+    "description": "Raghavendra Solanki is rediscovered by history.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 75,
+    "era": "Age of Inheritance",
+    "title": "Rise of Mira",
+    "description": "Mira becomes the bridge between generations.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 80,
+    "era": "Age of Fractures",
+    "title": "The New Generation",
+    "description": "Kabir, Anaya, Diya and Armaan become the dominant figures.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 85,
+    "era": "Age of Fractures",
+    "title": "The Fracture",
+    "description": "Ideological divisions begin to emerge within Mitra Mandal.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 90,
+    "era": "Age of Fractures",
+    "title": "Aditya Becomes Myth",
+    "description": "The founder evolves from historical figure into national legend.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 95,
+    "era": "Age of Fractures",
+    "title": "Death of Aarav",
+    "description": "The bridge between generations is lost.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 100,
+    "era": "Global Era",
+    "title": "Global Expansion",
+    "description": "Mitra Mandal becomes an international institution.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 105,
+    "era": "Global Era",
+    "title": "Kabir's Final Speech",
+    "description": "Kabir delivers his famous message: Let the future win.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 106,
+    "era": "Global Era",
+    "title": "Death of Mira",
+    "description": "The Historian passes responsibility to Rukma.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 110,
+    "era": "The Empty Chair Saga",
+    "title": "The Empty Chair Crisis",
+    "description": "A proposal attempts to remove the Empty Chair. The proposal fails.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 115,
+    "era": "The Empty Chair Saga",
+    "title": "The Founder Becomes Civilizational",
+    "description": "Aditya's ideas become part of national and global culture.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 120,
+    "era": "The Last Republic",
+    "title": "The Republic of Questions",
+    "description": "Kabir's writings become globally influential.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 125,
+    "era": "The Last Republic",
+    "title": "The Aditya Model",
+    "description": "An AI archive recreates the writings and philosophy of Aditya Saini.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 130,
+    "era": "The Last Republic",
+    "title": "The Inheritor",
+    "description": "Leadership passes to an ordinary teacher rather than a dynasty.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 140,
+    "era": "The Last Republic",
+    "title": "The Final Gathering",
+    "description": "The remaining guardians meet beneath the banyan tree.",
+    "importance": "Major"
+  },
+
+  {
+    "year": 145,
+    "era": "The Last Republic",
+    "title": "The Founder Becomes Timeless",
+    "description": "Aditya becomes a civilizational figure studied worldwide.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 150,
+    "era": "The Last Republic",
+    "title": "The Empty Chair Endures",
+    "description": "After 150 years, the Empty Chair remains untouched.",
+    "importance": "Legendary"
+  },
+
+  {
+    "year": 151,
+    "era": "The Last Republic",
+    "title": "The Last Sunset",
+    "description": "The saga ends beneath the banyan tree where it began.",
+    "importance": "Legendary"
+  }
+]
