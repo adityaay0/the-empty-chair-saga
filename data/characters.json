@@ -1,0 +1,265 @@
+[
+  {
+    "id": 1,
+    "name": "Aditya Saini",
+    "generation": 1,
+    "role": "Founder",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Legendary",
+    "quote": "Ordinary people matter."
+  },
+
+  {
+    "id": 2,
+    "name": "Nandini Saini",
+    "generation": 1,
+    "role": "Moral Anchor",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Legendary",
+    "quote": "Remaining worthy is harder than surviving."
+  },
+
+  {
+    "id": 3,
+    "name": "Deepak",
+    "generation": 1,
+    "role": "Co-Founder",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Major",
+    "quote": "Movements survive through people."
+  },
+
+  {
+    "id": 4,
+    "name": "Abhishek",
+    "generation": 1,
+    "role": "Co-Founder",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Major",
+    "quote": "Every great journey begins with believers."
+  },
+
+  {
+    "id": 5,
+    "name": "Raghavendra Solanki",
+    "generation": 1,
+    "role": "Forgotten Founder",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Legendary",
+    "quote": "Truth matters even when nobody remembers."
+  },
+
+  {
+    "id": 6,
+    "name": "Aarav",
+    "generation": 1,
+    "role": "Bridge Between Generations",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Legendary",
+    "quote": "I wanted Mitra Mandal to survive leaders."
+  },
+
+  {
+    "id": 7,
+    "name": "Yashvardhan",
+    "generation": 1,
+    "role": "The Dissenter",
+    "status": "Deceased",
+    "alignment": "Independent",
+    "importance": "Legendary",
+    "quote": "Never become the hero of your own story."
+  },
+
+  {
+    "id": 8,
+    "name": "Kartik Rathore",
+    "generation": 1,
+    "role": "The Heart",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Major",
+    "quote": "What matters is what comes after us."
+  },
+
+  {
+    "id": 9,
+    "name": "Professor Harinarayan Sharma",
+    "generation": 1,
+    "role": "Mentor",
+    "status": "Deceased",
+    "alignment": "Independent",
+    "importance": "Major",
+    "quote": "The movement survives when nobody wins completely."
+  },
+
+  {
+    "id": 10,
+    "name": "Mahendra Rathod",
+    "generation": 1,
+    "role": "Primary Antagonist",
+    "status": "Deceased",
+    "alignment": "Opposition",
+    "importance": "Major",
+    "quote": "Power belongs to those willing to use it."
+  },
+
+  {
+    "id": 11,
+    "name": "Veer Chauhan",
+    "generation": 2,
+    "role": "Rival Turned Ally",
+    "status": "Deceased",
+    "alignment": "Independent",
+    "importance": "Major",
+    "quote": "Aditya wasn't a hero. He was permission."
+  },
+
+  {
+    "id": 12,
+    "name": "Meera",
+    "generation": 2,
+    "role": "Senior Organizer",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Supporting",
+    "quote": "People remember stories, not statistics."
+  },
+
+  {
+    "id": 13,
+    "name": "Karan",
+    "generation": 2,
+    "role": "Strategist",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Supporting",
+    "quote": "A movement grows through systems."
+  },
+
+  {
+    "id": 14,
+    "name": "Aarohi Mehta",
+    "generation": 2,
+    "role": "Political Successor",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Major",
+    "quote": "Legacy is both burden and privilege."
+  },
+
+  {
+    "id": 15,
+    "name": "Arjun Saini",
+    "generation": 2,
+    "role": "Keeper of History",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Major",
+    "quote": "History is never complete."
+  },
+
+  {
+    "id": 16,
+    "name": "Mira",
+    "generation": 2,
+    "role": "Historian",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Legendary",
+    "quote": "Memory is the most dangerous force."
+  },
+
+  {
+    "id": 17,
+    "name": "Kabir Saini",
+    "generation": 3,
+    "role": "Truth",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Legendary",
+    "quote": "Let the future win."
+  },
+
+  {
+    "id": 18,
+    "name": "Anaya Mehta",
+    "generation": 3,
+    "role": "Power",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Legendary",
+    "quote": "We are thinking too small."
+  },
+
+  {
+    "id": 19,
+    "name": "Diya Chauhan",
+    "generation": 3,
+    "role": "Justice",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Major",
+    "quote": "Corruption is usually not complicated."
+  },
+
+  {
+    "id": 20,
+    "name": "Armaan Chauhan",
+    "generation": 3,
+    "role": "Order",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Major",
+    "quote": "Stability matters because chaos is expensive."
+  },
+
+  {
+    "id": 21,
+    "name": "Vivaan",
+    "generation": 3,
+    "role": "Supporting Leader",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Supporting",
+    "quote": "Every era needs builders."
+  },
+
+  {
+    "id": 22,
+    "name": "Tara",
+    "generation": 3,
+    "role": "Social Reformer",
+    "status": "Deceased",
+    "alignment": "Mitra Mandal",
+    "importance": "Supporting",
+    "quote": "Change begins with attention."
+  },
+
+  {
+    "id": 23,
+    "name": "Rukma",
+    "generation": 4,
+    "role": "Keeper of the Empty Chair",
+    "status": "Legend",
+    "alignment": "Mitra Mandal",
+    "importance": "Legendary",
+    "quote": "What is more dangerous? An empty chair or believing every chair belongs to someone?"
+  },
+
+  {
+    "id": 24,
+    "name": "The Teacher",
+    "generation": 5,
+    "role": "The Inheritor",
+    "status": "Unknown",
+    "alignment": "Mitra Mandal",
+    "importance": "Major",
+    "quote": "Leadership belongs to those who protect the next generation."
+  }
+]
